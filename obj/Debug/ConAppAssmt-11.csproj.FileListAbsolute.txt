@@ -1,0 +1,8 @@
+E:\Users\kishan\source\repos\ConAppAssmt-11\bin\Debug\ConAppAssmt-11.exe.config
+E:\Users\kishan\source\repos\ConAppAssmt-11\bin\Debug\ConAppAssmt-11.exe
+E:\Users\kishan\source\repos\ConAppAssmt-11\bin\Debug\ConAppAssmt-11.pdb
+E:\Users\kishan\source\repos\ConAppAssmt-11\obj\Debug\ConAppAssmt-11.csproj.AssemblyReference.cache
+E:\Users\kishan\source\repos\ConAppAssmt-11\obj\Debug\ConAppAssmt-11.csproj.SuggestedBindingRedirects.cache
+E:\Users\kishan\source\repos\ConAppAssmt-11\obj\Debug\ConAppAssmt-11.csproj.CoreCompileInputs.cache
+E:\Users\kishan\source\repos\ConAppAssmt-11\obj\Debug\ConAppAssmt-11.exe
+E:\Users\kishan\source\repos\ConAppAssmt-11\obj\Debug\ConAppAssmt-11.pdb
